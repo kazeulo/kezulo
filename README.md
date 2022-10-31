@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kzlyr
-- 👀 I’m interested in graphic design/digital art, video editing, coding
+- 👀 I’m interested in books, graphic design/digital art, video editing, coding, and gamedev
 
 
 - 📫 kmanejo@up.edu.ph
