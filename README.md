@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kzlyr
 - 👀 I’m interested in graphic design/digital art, video editing, coding
-- 🌱 I’m currently learning coding
 
-- 📫 How to reach me kmanejo@up.edu.ph
+
+- 📫 kmanejo@up.edu.ph
 
 <!---
 kezulo/kezulo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
